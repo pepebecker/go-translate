@@ -1,2 +1,2 @@
 # GO Translate
-A small command line which let translate some text
+A small command line tool which lets you translate some text
